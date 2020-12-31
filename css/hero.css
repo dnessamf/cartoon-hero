@@ -7,6 +7,7 @@ body{
 
 header{
 	background-color: #0f3057;
+	background-image: url("file:///C:/Users/dfran/OneDrive/Desktop/HTML%20CSS%20Basics/cartoon-hero/img/header-bkgd.jpg");
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -37,6 +38,7 @@ main{
 
 main img{
 	max-width: 100%;
+	padding-bottom: 0;
 }
 
 h2{
@@ -76,4 +78,5 @@ p.caption{
 	color: #999999; 
 	font-style: italic;
 	margin-top: 0;
+	font-size: 12px;
 }
