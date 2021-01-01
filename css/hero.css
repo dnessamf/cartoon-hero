@@ -6,7 +6,8 @@ body{
 }
 
 header{
-	background-image: url("file:///C:/Users/dfran/OneDrive/Desktop/html-css-basics/cartoon-hero/img/korra-header.jpg");
+	background-color: #0f3057;
+	background-image: url("https://dnessamf.github.io/cartoon-hero/img/korra-header.jpg");
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
