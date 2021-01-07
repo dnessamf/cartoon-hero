@@ -1,3 +1,11 @@
+@font-face{
+font-family: 'kayooh';
+src: url('kayooh.eot'); /* IE9 Compat Modes */
+src: url('kayooh.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('kayooh.woff') format('woff'), /* Modern Browsers */
+url('kayooh.ttf') format('truetype'), /* Safari, Android, iOS */
+url('kayooh.svg#svgFontName') format('svg'); /* Legacy iOS */}
+
 body{
 	margin: 0;
 	font-family: Helvetica, Arial, sans-serif;
@@ -14,7 +22,8 @@ header{
 }
 
 h1, h2{
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'kayooh', cursive;
+	text-transform: uppercase;
 }
 
 /*header styles*/
